@@ -1,0 +1,25 @@
+ <section class="wrapper disclaimer ">
+      <div class="animatedParent animateOnce"><img class="animated fadeInUp go"   src="" />
+      </div>
+      <div class="animatedParent animateOnce" data-sequence='500'>
+        <p class="animated fadeInUp " data-id='1'>
+          Current rules of the Bar Council of India impose restrictions on maintaining a web page and do not permit lawyers to provide information concerning their areas of practice. Ferdous and Associates is, therefore, constrained from providing any further information on this web page.
+        </p>
+<p class="animated fadeInUp " data-id='2'>The rules of the Bar Council of India prohibit law firms from soliciting work or advertising in any manner. By clicking on ‘I AGREE’, the user acknowledges that:</p>
+<ol class="animated fadeInUp " data-id='3'>
+<li >
+            The user wishes to gain more information about Ferdous and Associates, its practice areas and its attorneys, for his/her own information and use;
+          </li>
+<li >
+            The information is made available/provided to the user only on his/her specific request and any information obtained or material downloaded from this website is completely at the user’s volition and any transmission, receipt or use of this site is not intended to, and will not, create any lawyer-client relationship; and
+          </li>
+<li >
+            None of the information contained on the website is in the nature of a legal opinion or otherwise amounts to any legal advice.
+          </li>
+<li>
+            Ferdous and Associates, is not liable for any consequence of any action taken by the user relying on material/information provided under this website. In cases where the user has any legal issues, he/she in all cases must seek independent legal advice.
+          </li>
+</ol>
+<p class=" animated fadeInUp  " data-id='4'><a class="button" href="home.html" >I agree</a> <a class="button" href="#" >I disagree</a></p>
+      </div>
+    </section>
